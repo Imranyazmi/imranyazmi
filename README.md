@@ -21,12 +21,12 @@ Software Developer from India 🇮🇳 specializing in Enterprise Applications, 
 <td valign="top" width="60%">
 
 
-• Project Trainee at Konkan Railway Corporation Limited
-• AI & ML Lead at GDG on Campus
-• Python Developer Intern at Colesera Pvt. Ltd.
-• Built enterprise, full stack, and AI powered applications
-•  B.Tech in Artificial Intelligence and Data Science.
-•  Reach me at **imranyazmi@gmail.com**
+- Project Trainee at Konkan Railway Corporation Limited
+- AI & ML Lead at GDG on Campus
+- Python Developer Intern at Colesera Pvt. Ltd.
+- Built enterprise, full stack, and AI powered applications
+-  B.Tech in Artificial Intelligence and Data Science.
+-  Reach me at **imranyazmi@gmail.com**
 
 </td>
 
