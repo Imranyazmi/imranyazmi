@@ -13,20 +13,20 @@ Software Developer from India 🇮🇳 specializing in Enterprise Applications, 
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <table>
 <tr>
 
 <td valign="top" width="60%">
 
-- 💻 **Software Developer** passionate about building scalable and efficient software solutions.
-- 🏢 Currently working as a **Project Trainee at Konkan Railway Corporation Limited.**
-- 🌱 Expanding my expertise in **Java, Spring Boot, Angular, System Design, and Backend Development.**
-- 🔭 Building enterprise software, full stack applications, and AI powered solutions.
-- 🧠 Strong believer in learning through real world projects and practical experience.
-- 🎓 B.Tech in Artificial Intelligence and Data Science.
-- 📫 Reach me at **imranyazmi@gmail.com**
+-  **Software Developer** passionate about building scalable and efficient software solutions.
+-  Currently working as a **Project Trainee at Konkan Railway Corporation Limited.**
+-  Expanding my expertise in **Java, Spring Boot, Angular, System Design, and Backend Development.**
+-  Building enterprise software, full stack applications, and AI powered solutions.
+-  Strong believer in learning through real world projects and practical experience.
+-  B.Tech in Artificial Intelligence and Data Science.
+-  Reach me at **imranyazmi@gmail.com**
 
 </td>
 
