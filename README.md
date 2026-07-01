@@ -4,132 +4,122 @@
 
 ### Software Developer | Java • Spring Boot • Angular • Python
 
-[LinkedIn](https://linkedin.com/in/imranyazmi) • [Email](mailto:imranyazmi@gmail.com)
+Building scalable backend systems, full stack applications, and AI powered solutions.
+
+<p>
+<a href="https://www.linkedin.com/in/imranyazmi">LinkedIn</a> •
+<a href="mailto:imranyazmi@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a Software Developer with hands-on experience in backend and full stack application development.
+I'm a Software Developer passionate about building scalable applications and solving real world problems.
 
-Currently, I am working as a **Project Trainee** at **Konkan Railway Corporation Limited**, where I contribute to enterprise software development using **Java, Spring Boot, Angular, and PostgreSQL**.
+Currently working as a **Project Trainee** at **Konkan Railway Corporation Limited**, where I contribute to enterprise software development using **Java, Spring Boot, Angular, and PostgreSQL**.
 
-Previously, I worked as a **Python Developer Intern** at **Colesera Pvt. Ltd.**, where I developed desktop applications and engineering analysis tools using **Python, PySide6, Pandas, and Matplotlib**.
+Previously worked as a **Python Developer Intern** at **Colesera Pvt. Ltd.**, developing engineering desktop applications, automation workflows, and statistical analysis tools.
 
-I have completed my **Bachelor of Technology in Artificial Intelligence and Data Science** and am actively seeking Software Development Engineer opportunities.
+I enjoy backend development, system design, and building software that delivers practical value.
 
 ---
 
-# Technical Skills
+## Tech Stack
 
 ### Languages
 
-`Java` `Python` `TypeScript` `JavaScript` `SQL` `C++`
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css,sql" />
+</p>
 
-### Backend
+### Backend & Database
 
-`Spring Boot` `REST APIs` `Firebase`
+<p>
+<img src="https://skillicons.dev/icons?i=spring,firebase,mysql,postgres" />
+</p>
 
 ### Frontend
 
-`Angular` `React` `HTML` `CSS` `Tailwind CSS`
-
-### Databases
-
-`PostgreSQL` `MySQL` `Firebase Firestore`
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,tailwind" />
+</p>
 
 ### Tools
 
-`Git` `GitHub` `IntelliJ IDEA` `VS Code` `Postman`
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
+</p>
 
 ---
 
-# Experience
+## Professional Experience
 
 ### Project Trainee
 **Konkan Railway Corporation Limited**
 
 - Developing enterprise software using Java, Spring Boot, Angular, and PostgreSQL.
-- Building backend APIs and contributing to workflow automation systems.
-- Working on applications used across multiple railway zones and departments.
+- Building REST APIs and workflow automation modules.
+- Contributing to applications used across multiple railway zones and departments.
 
 ### Python Developer Intern
 **Colesera Pvt. Ltd.**
 
-- Developed GeoTolytics TSA, a desktop application for engineering tolerance stack up analysis.
-- Implemented statistical analysis modules, data processing workflows, and interactive visualizations.
-- Worked with Python, PySide6, Pandas, and Matplotlib.
+- Developed GeoTolytics TSA desktop application using Python and PySide6.
+- Implemented statistical analysis, data processing, visualization, and reporting modules.
+- Worked extensively with Pandas and Matplotlib.
 
 ---
 
-# Featured Projects
+## Featured Projects
 
-## GeoTolytics TSA
-
-Desktop application for engineering tolerance stack up analysis supporting Worst Case, RSS, Process Capability, and Monte Carlo analysis.
-
-**Tech Stack**
-
-Python • PySide6 • Pandas • Matplotlib
+| Project | Description |
+|---------|-------------|
+| **GeoTolytics TSA** | Desktop application for engineering tolerance stack up analysis using Python and PySide6. |
+| **CivicReports** | AI powered civic issue reporting platform with multilingual support, real time tracking, and interactive maps. |
+| **Mess Attendance & Bill Management** | Role based web application for attendance, billing, and payment management. |
 
 ---
 
-## CivicReports
-
-AI powered civic issue reporting platform featuring real time tracking, multilingual support, interactive maps, and an authority dashboard.
-
-**Tech Stack**
-
-React • TypeScript • Firebase • Tailwind CSS
-
----
-
-## Mess Attendance and Bill Management System
-
-Role based web application for hostel mess attendance, billing, payment tracking, and administrative management.
-
-**Tech Stack**
-
-React • TypeScript • Firebase
-
----
-
-# Certifications
+## Certifications
 
 - Oracle Cloud Infrastructure Data Science Professional
 - Oracle AI Foundations Associate
-- Cisco Python Essentials 1 & 2
 - AWS Data Engineering Foundations
+- Cisco Python Essentials 1 & 2
 - IBM Web Development Fundamentals
 
 ---
 
-# GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Imranyazmi&show_icons=true&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Imranyazmi&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imranyazmi&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imranyazmi&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Imranyazmi&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Imranyazmi&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# Contact
+## Let's Connect
 
-**LinkedIn**
+- LinkedIn: https://linkedin.com/in/imranyazmi
+- Email: imranyazmi@gmail.com
 
-https://linkedin.com/in/imranyazmi
+---
 
-**Email**
+<div align="center">
 
-imranyazmi@gmail.com
+*"Building software that solves real world problems."*
+
+</div>
