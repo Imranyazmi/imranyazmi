@@ -20,13 +20,13 @@ Software Developer from India 🇮🇳 specializing in Enterprise Applications, 
 
 <td valign="top" width="60%">
 
--  **Software Developer** passionate about building scalable and efficient software solutions.
--  Currently working as a **Project Trainee at Konkan Railway Corporation Limited.**
--  Expanding my expertise in **Java, Spring Boot, Angular, System Design, and Backend Development.**
--  Building enterprise software, full stack applications, and AI powered solutions.
--  Strong believer in learning through real world projects and practical experience.
--  B.Tech in Artificial Intelligence and Data Science.
--  Reach me at **imranyazmi@gmail.com**
+
+• Project Trainee at Konkan Railway Corporation Limited
+• AI & ML Lead at GDG on Campus
+• Python Developer Intern at Colesera Pvt. Ltd.
+• Built enterprise, full stack, and AI powered applications
+•  B.Tech in Artificial Intelligence and Data Science.
+•  Reach me at **imranyazmi@gmail.com**
 
 </td>
 
@@ -101,7 +101,7 @@ Software Developer from India 🇮🇳 specializing in Enterprise Applications, 
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 <p align="center">
 
@@ -179,7 +179,7 @@ Python • Pandas • Scikit Learn
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 - Oracle Cloud Infrastructure 2025 Certified Data Science Professional
 - Oracle Cloud Infrastructure AI Foundations Associate
